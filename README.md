@@ -7,6 +7,9 @@ Hello everyone!
 Author: Muhammad Haroon
 I am learning git_hub.
 
+<<<<<<< HEAD
 I am learnig git_hub from apna college.
+=======
+>>>>>>> main
 
 
